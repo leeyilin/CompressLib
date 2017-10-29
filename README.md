@@ -2,7 +2,7 @@
 
 
 ## Overview
-	The size of quote data generated every day is extremely enormous and could consume the bandwidth very quickly. By compressing the data transferring from servers to clients with special algorithms, we could relieve the bandwidth, save lots of money and improve the overall performance of the servers. The compression rate ranges from 80% to 10%.
+The size of quote data generated every day is extremely enormous and could consume the bandwidth very quickly. By compressing the data transferring from servers to clients with special algorithms, we could relieve the bandwidth, save lots of money and improve the overall performance of the servers. The compression rate ranges from 80% to 10%.
 
 
 ## Details
